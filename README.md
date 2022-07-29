@@ -3,3 +3,4 @@
 This repo consist of web app designed and developed using shiny for python library by RStudio. The complete write-up blog for building the web app is given [here]()
 
 ![MSA](images/shiny_thumb.png)
+[![Alt text](images/shiny_thumb.png)](https://www.youtube.com/watch?v=oTc1yVZlrIU&t=4s)
