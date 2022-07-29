@@ -1,0 +1,6 @@
+shiny
+joblib
+pandas
+numpy
+sklearn
+mdit_py_plugins
