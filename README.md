@@ -1,6 +1,6 @@
 # Early_Diabetes_detection_webapp_shiny_python
 
-This repo consist of web app designed and developed using [shiny for python](https://shiny.rstudio.com/py/) library by RStudio. In this project we have designed a web application to show the project structure for a machine learning model deployed using shiny. This project features a machine learning model that has been trained to detect diabetic patient based on certain input features such as `Age`, `Gender`, `Polyuria`, `Polydispia`, `Partial paresis`, `Sudden weight loss`, 'Irritability`, `Delayed healing`, `Alopecia`, and  `Itching`. This application acts as an interface for a user to predict diabetes based on selecting top 10 input features. The machine learning model was built using various features of scikit learn:
+This repo consist of web app designed and developed using [shiny for python](https://shiny.rstudio.com/py/) library by RStudio. In this project we have designed a web application to show the project structure for a machine learning model deployed using shiny. This project features a machine learning model that has been trained to detect diabetic patient based on certain input features such as `Age`, `Gender`, `Polyuria`, `Polydispia`, `Partial paresis`, `Sudden weight loss`, `Irritability`, `Delayed healing`, `Alopecia`, and  `Itching`. This application acts as an interface for a user to predict diabetes based on selecting top 10 input features. The machine learning model was built using various features of scikit learn:
 
 * Logistic Regression (LR)
 * Min Max Scaler 
